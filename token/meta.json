@@ -1,0 +1,12 @@
+{
+  "name": "Empa",
+  "symbol": "Empa",
+  "description": "Empa is a green philosopher who sits in silence while a symphony of 1,000 awkward thoughts screams inside.",
+  "image": "https://empaai.github.io/token/icon.png",
+  "extensions": {
+    "twitter": "",
+    "telegram": "",
+    "website": ""
+  },
+  "tags": []
+}
