@@ -1,4 +1,4 @@
-# EMPAAI
+# Empa
 
 ## Public URIs
 
